@@ -1,0 +1,15 @@
+.country-container {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  /* width: 400px;
+  height: 200px; */
+  border: 1px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+
+.country-container img {
+  width: 100px;
+  padding-bottom: 10px;
+}
